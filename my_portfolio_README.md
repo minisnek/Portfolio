@@ -112,6 +112,7 @@
 </ol>
 <p>Как решала: с помощью визуализации, написания функций, циклов и других инстументов Python сформировала нужную таблицу. Затем в Excel сделала калькулятор в соотвествии с ТЗ, приложенном к заданию.<p>
 <p>Использовала библиотеки: pandas, matplotlib.pyplot, seaborn, scipy.stats, numpy.<p>
+  
 > <a href="https://github.com/minisnek/Portfolio/blob/main/projects/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%824.xlsx">Ссылка на проект</a>
 
 
